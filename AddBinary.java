@@ -1,4 +1,4 @@
-<b>  Question Link: https://leetcode.com/problems/add-binary/   </b>
+Question Link: https://leetcode.com/problems/add-binary/  
 
 
 class Solution {
