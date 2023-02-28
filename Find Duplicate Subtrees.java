@@ -34,4 +34,4 @@ class Solution {
         }
         return serial;
     }
-}
+};
